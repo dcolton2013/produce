@@ -1,0 +1,3 @@
+rootProject.name = 'ProduceApp'
+
+include ':app'
